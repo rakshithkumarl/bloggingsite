@@ -1,2 +1,1 @@
-A blogging website wherein users can create the blogs.
-Tech stack: Python, Django, Html, Css.
+A blogging website wherein users can create the blogs.                                                                                          Tech stack: Python, Django, Html, Css.
